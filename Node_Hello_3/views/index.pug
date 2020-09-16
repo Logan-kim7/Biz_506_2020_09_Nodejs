@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 #{title}
+  p 안녕하세요 오늘은 #{date} 입니다
+  p 지금시각은 #{time} 입니다
+
+  form(method="POST")
+    input(type="text", name="name")
+    button 클릭
