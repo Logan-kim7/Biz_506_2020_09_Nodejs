@@ -1,3 +1,11 @@
+      cd Node_ToDo
+
+       npm install
+
+        npm install pug
+
+        npm install express
+     
      npm install cookie-parser
      npm install debug
      npm install express
@@ -17,4 +25,4 @@
      yarn add mongoose
      yarn
      
-     
+     npm install moment
